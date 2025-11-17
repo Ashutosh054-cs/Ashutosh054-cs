@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Ashutosh054-cs/Ashutosh054-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ashutosh — a Designer and React/Frontend Developer.
 
-Here are some ideas to get you started:
+I love creating clean, aesthetic designs and building smooth, user-friendly interfaces. I'm always exploring new ideas, and right now I'm diving into GenAI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack: React, JavaScript, Tailwind CSS, Framer Motion
+Design Tool: Figma
+
+I’ve worked with clients, but my favorite project is:
+👉 Smile Studio — https://github.com/Ashutosh054-cs/smilestudio
+
+💡 Fun Facts
+
+I love fish and I even keep some 🐠
+
+I’m addicted to cold drinks 🧊🥤
+
+I’m obsessed with aesthetic things ✨
+
+If you’ve got a cool idea and want to collaborate, feel free to reach out!
